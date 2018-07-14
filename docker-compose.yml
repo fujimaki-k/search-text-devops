@@ -1,0 +1,8 @@
+version: "3"
+services:
+  application:
+    build: ./application
+    image: search-text
+    container_name: search-text
+    entrypoint: /init.sh
+
