@@ -9,11 +9,11 @@
 動作には [docker](https://docs.docker.com/install/) と [docker-compose](https://docs.docker.com/compose/) が必要です。
 
 
-| 名前               | バージョン                                 |
+| 名前               | バージョン                                |
 |:-------------------|:------------------------------------------|
 | OS                 | Debian GNU/Linux 10.0（Buster / Testing） |
-| docker (docker-ce) | 18.03.1                                   |
-| docker-compose     | 1.17.1-2                                  | |
+| docker (docker-ce) | 18.06.0                                   |
+| docker-compose     | 1.17.1                                    |
 
 
 ## インストール
